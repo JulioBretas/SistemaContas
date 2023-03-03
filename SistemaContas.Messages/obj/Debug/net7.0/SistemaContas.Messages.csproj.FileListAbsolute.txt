@@ -1,0 +1,12 @@
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\bin\Debug\net7.0\SistemaContas.Messages.deps.json
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\bin\Debug\net7.0\SistemaContas.Messages.dll
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\bin\Debug\net7.0\SistemaContas.Messages.pdb
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.csproj.AssemblyReference.cache
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.AssemblyInfoInputs.cache
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.AssemblyInfo.cs
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.csproj.CoreCompileInputs.cache
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.dll
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\refint\SistemaContas.Messages.dll
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\SistemaContas.Messages.pdb
+C:\JulioB\Aula07\SistemaContas\SistemaContas.Messages\obj\Debug\net7.0\ref\SistemaContas.Messages.dll
